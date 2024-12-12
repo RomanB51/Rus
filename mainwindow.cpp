@@ -4,6 +4,7 @@
 #include<QFile>
 #include<QTextStream>
 #include <QDebug>
+#include<QFileDialog>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -19,7 +20,9 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    QFile file("D:/C++/QT creator/text.txt");
+    QString filter = "All File (*.*) ;; Text File (*.txt) ;; XML File (*.xml)";
+    QString filename = QFileDialog::getOpenFileName(this, "Окно выбора файлов", "D:/C++/", filter);
+    QFile file(filename);
     if(!file.open(QFile::ReadOnly | QFile::Text)){ //Проверка на то, можем ли мы что-либо записывать
         QMessageBox::warning(this, "Title", "Не удалось открыть файл");
     }

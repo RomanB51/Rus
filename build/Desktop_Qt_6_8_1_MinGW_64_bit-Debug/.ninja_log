@@ -1,0 +1,13 @@
+# ninja log v6
+1401	13508	7557101050363975	Russia_autogen/timestamp	1fcd815d7bbd33fb
+1401	13508	7557101050363975	Russia_autogen/mocs_compilation.cpp	1fcd815d7bbd33fb
+1401	13508	7557101050363975	D:/C++/My_project/My_projectV2/Russia/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Russia_autogen/timestamp	1fcd815d7bbd33fb
+1401	13508	7557101050363975	D:/C++/My_project/My_projectV2/Russia/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	1fcd815d7bbd33fb
+13541	36574	7557101052624486	CMakeFiles/Russia.dir/main.cpp.obj	8477b931e3e64663
+13526	36641	7557101052484824	CMakeFiles/Russia.dir/Russia_autogen/mocs_compilation.cpp.obj	ee9a496b4d15c0af
+1032	1609	7557102002856406	Russia_autogen/timestamp	1fcd815d7bbd33fb
+1032	1609	7557102002856406	Russia_autogen/mocs_compilation.cpp	1fcd815d7bbd33fb
+1032	1609	7557102002856406	D:/C++/My_project/My_projectV2/Russia/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Russia_autogen/timestamp	1fcd815d7bbd33fb
+1032	1609	7557102002856406	D:/C++/My_project/My_projectV2/Russia/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	1fcd815d7bbd33fb
+1611	10680	7557102008645476	CMakeFiles/Russia.dir/mainwindow.cpp.obj	b489d766c9c10ce2
+10681	13431	7557102099333858	Russia.exe	eaf4098cf4f0c172
