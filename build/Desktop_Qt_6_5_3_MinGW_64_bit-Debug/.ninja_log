@@ -1,0 +1,37 @@
+# ninja log v6
+14	3666	7556851299806479	Russia_autogen/timestamp	75561fb70a0b02ad
+14	3666	7556851299806479	Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+14	3666	7556851299806479	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/timestamp	75561fb70a0b02ad
+14	3666	7556851299806479	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+3682	29636	7556851302736495	CMakeFiles/Russia.dir/Russia_autogen/mocs_compilation.cpp.obj	39f59dfdb7f4bcf3
+3710	29874	7556851303016506	CMakeFiles/Russia.dir/mainwindow.cpp.obj	e903b6ee23f6e478
+383	2534	7556852968128189	Russia_autogen/timestamp	75561fb70a0b02ad
+383	2534	7556852968128189	Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+383	2534	7556852968128189	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/timestamp	75561fb70a0b02ad
+383	2534	7556852968128189	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+2594	23816	7556852971588202	CMakeFiles/Russia.dir/main.cpp.obj	ac0e355cf32d2512
+2536	24436	7556852971008209	CMakeFiles/Russia.dir/Russia_autogen/mocs_compilation.cpp.obj	39f59dfdb7f4bcf3
+2610	24848	7556852971748212	CMakeFiles/Russia.dir/mainwindow.cpp.obj	e903b6ee23f6e478
+24848	28064	7556853194127783	Russia.exe	b8e339482c73b745
+510	1088	7556859155066491	Russia_autogen/timestamp	75561fb70a0b02ad
+510	1088	7556859155066491	Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+510	1088	7556859155066491	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/timestamp	75561fb70a0b02ad
+510	1088	7556859155066491	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+1090	8925	7556859160866505	CMakeFiles/Russia.dir/mainwindow.cpp.obj	e903b6ee23f6e478
+8926	12257	7556859239218893	Russia.exe	b8e339482c73b745
+56	614	7556861401778974	Russia_autogen/timestamp	75561fb70a0b02ad
+56	614	7556861401778974	Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+56	614	7556861401778974	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/timestamp	75561fb70a0b02ad
+56	614	7556861401778974	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+328	912	7556862032574611	Russia_autogen/timestamp	75561fb70a0b02ad
+328	912	7556862032574611	Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+328	912	7556862032574611	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/timestamp	75561fb70a0b02ad
+328	912	7556862032574611	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+914	7768	7556862038424671	CMakeFiles/Russia.dir/mainwindow.cpp.obj	e903b6ee23f6e478
+7768	9918	7556862106975143	Russia.exe	b8e339482c73b745
+31	509	7556863766009548	Russia_autogen/timestamp	75561fb70a0b02ad
+31	509	7556863766009548	Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+31	509	7556863766009548	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/timestamp	75561fb70a0b02ad
+31	509	7556863766009548	D:/C++/QT creator/My_projectV2/Russia/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Russia_autogen/mocs_compilation.cpp	75561fb70a0b02ad
+510	6222	7556863770799584	CMakeFiles/Russia.dir/mainwindow.cpp.obj	e903b6ee23f6e478
+6222	6792	7556863827919548	Russia.exe	b8e339482c73b745
