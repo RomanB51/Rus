@@ -1,1 +1,2 @@
-#include "./ui_mainwindow.h" - УБЕРИ . И /
+Для того, чтобы Qt creator нормально воспринимал элементы GUI в файлах .срр в WINDOWS нужно сделать следующее: в #include "./ui_mainwindow.h" - УБЕРИ . И /, должно быть #include "ui_mainwindow.h"
+После установке Qt creator в Ubuntu необходимо установить дополнительно cmake и указать к нему путь и установить настройку зависимостей при закрытом Qt creator: sudo apt-get install build-essential libgl1-mesa-dev
